@@ -1,8 +1,11 @@
-## Demo
-Click Below Link To See Implementation <br>
+
+<h2>Click Below Link To See Project Implementation</h2>
 
 https://youtu.be/6ZElWF2kHT8
 <br>
+
+<h2>For Live Demo <b>website Link<b> is the About section</h1>
+
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
         <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
@@ -23,9 +26,9 @@ This [Refine](https://github.com/refinedev/refine) project was generated with [c
 
 ## Getting Started
 
-A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
+The project is built using a React Framework Refine used to build internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
 
-Refine's hooks and components simplify the development process and eliminate repetitive tasks by providing industry-standard solutions for crucial aspects of a project, including authentication, access control, routing, networking, state management, and i18n.
+Refine's hooks and components simplify the development process and eliminate repetitive tasks by providing industry-standard solutions for crucial project aspects, including authentication, access control, routing, networking, and state management.
 
 ### Building a Profile Management Dashboard
 
@@ -38,7 +41,6 @@ This project utilizes **Ant Design** to create a user-friendly interface for man
   - Utilizes the Google Maps API to fetch and display location data based on user profiles.
   - Clickable markers on the map direct users to specific locations for easy access.
 - **Responsive Design**: Ensures accessibility on various devices, providing a seamless user experience.
-- **User Authentication**: Secure access control to protect sensitive data.
 - **Dynamic Forms**: Utilize Ant Design's form components for easy data entry and validation.
 - **React Hooks**: 
   - Leverages React hooks (e.g., `useState`, `useEffect`) for managing state and side effects in a functional component.
@@ -64,7 +66,6 @@ This project utilizes **Ant Design** to create a user-friendly interface for man
 - **Comprehensive Component Library**: Ant Design offers a rich set of high-quality components that help build elegant UIs with minimal effort.
 - **Responsive Layout**: Components are designed to be responsive, ensuring that the application works well on various screen sizes.
 - **Customizable Themes**: Ant Design supports theme customization, enabling you to create a consistent look and feel throughout the application.
-- **Internationalization (i18n)**: Built-in support for internationalization, making it easy to create applications that can cater to multiple languages and regions.
 
 ## Available Scripts
 
