@@ -1,3 +1,8 @@
+## Demo
+Click Below Link To See Implementation <br>
+
+https://youtu.be/6ZElWF2kHT8
+<br>
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
         <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
@@ -7,6 +12,14 @@
 <br/>
 
 This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
+
+## Snap Shots
+
+![Screenshot (440)](https://github.com/user-attachments/assets/5c422068-8157-44fd-9462-74bfd221fe0b)
+![Screenshot (442)](https://github.com/user-attachments/assets/564b5968-880a-49f3-bd34-65643f56670e)
+![Screenshot (448)](https://github.com/user-attachments/assets/cf15619d-a6c8-4468-a6ff-ee7a579ad42e)
+![Screenshot (443)](https://github.com/user-attachments/assets/ddde85a0-e02a-4d41-8953-d317c23e5eb0)
+![Screenshot 2024-10-13 202047](https://github.com/user-attachments/assets/615d2f7b-38f0-4d86-9389-5e9cda9456a5)
 
 ## Getting Started
 
@@ -52,3 +65,32 @@ This project utilizes **Ant Design** to create a user-friendly interface for man
 - **Responsive Layout**: Components are designed to be responsive, ensuring that the application works well on various screen sizes.
 - **Customizable Themes**: Ant Design supports theme customization, enabling you to create a consistent look and feel throughout the application.
 - **Internationalization (i18n)**: Built-in support for internationalization, making it easy to create applications that can cater to multiple languages and regions.
+
+## Available Scripts
+
+### Running the Development Server
+
+```bash
+npm install  
+```
+
+```bash
+npm run dev
+```
+
+```bash
+npm run build
+```
+
+```bash
+npm run start
+```
+
+## Learn More
+
+To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
+
+- [Ant Design Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
+- [React Router Docs](https://refine.dev/docs/core/providers/router-provider/)
+- [REST Data Provider Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
+- [Google Maps API Docs](https://developers.google.com/maps/documentation/javascript/tutorial)
