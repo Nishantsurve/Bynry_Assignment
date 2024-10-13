@@ -1,3 +1,54 @@
-# Bynry_Assignment
+<div align="center" style="margin: 30px;">
+    <a href="https://refine.dev">
+        <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
+    </a>
+</div>
 
-# Hi
+<br/>
+
+This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
+
+## Getting Started
+
+A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
+
+Refine's hooks and components simplify the development process and eliminate repetitive tasks by providing industry-standard solutions for crucial aspects of a project, including authentication, access control, routing, networking, state management, and i18n.
+
+### Building a Profile Management Dashboard
+
+This project utilizes **Ant Design** to create a user-friendly interface for managing profiles. Key features of the dashboard include:
+
+- **Profile List View**: A comprehensive table displaying user profiles with sorting and filtering capabilities.
+- **Profile Details**: Detailed view of individual profiles with editable fields.
+- **Google Maps Integration**: 
+  - Users can view their locations on an interactive map, allowing for easy navigation to specific addresses.
+  - Utilizes the Google Maps API to fetch and display location data based on user profiles.
+  - Clickable markers on the map direct users to specific locations for easy access.
+- **Responsive Design**: Ensures accessibility on various devices, providing a seamless user experience.
+- **User Authentication**: Secure access control to protect sensitive data.
+- **Dynamic Forms**: Utilize Ant Design's form components for easy data entry and validation.
+- **React Hooks**: 
+  - Leverages React hooks (e.g., `useState`, `useEffect`) for managing state and side effects in a functional component.
+  - Custom hooks are created for reusable logic related to fetching and managing profile data.
+- **Error Handling**: 
+  - Comprehensive error handling to manage API request failures and display user-friendly messages.
+  - Input validation to ensure that all required fields are correctly filled out before submission.
+- **Dark and Light Modes**: 
+  - Users can toggle between dark and light themes for a personalized viewing experience.
+  - Theme management is achieved using a context provider and React hooks, allowing dynamic updates across components.
+  - Ant Design's theme customization features are utilized to ensure consistent styling between modes.
+
+### Refine Framework Features
+
+- **Rapid Development**: Refine enables developers to quickly scaffold applications with a focus on productivity.
+- **Built-in Authentication**: Easily implement authentication and authorization features with minimal configuration.
+- **Data Management**: Offers efficient data management solutions through customizable data providers, allowing integration with various backends.
+- **Routing & Navigation**: Simplifies routing and navigation within the application with built-in routing capabilities.
+- **Customizable UI Components**: Provides a set of ready-to-use UI components that can be easily customized to match your application's design.
+
+### Ant Design Features
+
+- **Comprehensive Component Library**: Ant Design offers a rich set of high-quality components that help build elegant UIs with minimal effort.
+- **Responsive Layout**: Components are designed to be responsive, ensuring that the application works well on various screen sizes.
+- **Customizable Themes**: Ant Design supports theme customization, enabling you to create a consistent look and feel throughout the application.
+- **Internationalization (i18n)**: Built-in support for internationalization, making it easy to create applications that can cater to multiple languages and regions.
